@@ -5,9 +5,9 @@ import MenuIcon from '../assets/icons/menu.svg';
 
 export const Navbar = () => {
   return (
-    <div className="bg-black">
+    <div className="bg-blue-900">
       <div className="px-4">
-    <div className="container bg-black">
+    <div className="container bg-blue-900">
       <div className="py-4 flex items-center justify-between">
 
       <div className="relative">

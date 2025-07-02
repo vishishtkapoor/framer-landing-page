@@ -20,8 +20,9 @@ export default function Home() {
       <LogoTicker />
       <Features />
       <ProductShowcase />
-      <Pricing/>
       <FAQs />
+      <Pricing/>
+
       <CallToAction />
       </div>
       <Footer />
